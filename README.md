@@ -1,6 +1,6 @@
 # Differential-Equations-Project
 
-# Contributors : 
+## Contributors : 
 Shivani Chepuri 
 Niharika Vadlamudi 
 Anurag Sahu 
