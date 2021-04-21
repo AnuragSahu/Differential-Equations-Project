@@ -1,6 +1,6 @@
 # Differential-Equations-Project
 
 ## Contributors : 
-Shivani Chepuri \\ 
-Niharika Vadlamudi \\ 
-Anurag Sahu \\ 
+Shivani Chepuri {br} 
+Niharika Vadlamudi {br}
+Anurag Sahu {br} 
